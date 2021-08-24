@@ -6,9 +6,8 @@ In short, An android app that tells the weather of cities by their name using Op
 
 Screenshot of how the app looks like is below:
 
-![Screenshot_2021-08-18-20-41-20-62_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/129957878-d39bca92-0eb7-41fd-804b-ce77bbfcc243.jpg)
+![Screenshot_2021-08-18-20-41-36-70_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/130669668-77b767b6-af95-4dca-abfb-8c63ed3925f7.jpg)
+![Screenshot_2021-08-18-20-41-20-62_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/130669684-6d002456-5339-4d0e-8c13-2ff208a1d75c.jpg)
+![Screenshot_2021-08-18-20-41-45-36_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/130669711-77ebb26d-074b-491c-a36d-5d374bbfa763.jpg)
 
-![Screenshot_2021-08-18-20-41-36-70_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/129957977-ead13344-7396-4f24-801b-cfbae42f6a5d.jpg)
-
-![Screenshot_2021-08-18-20-41-45-36_9ddbea12711bafff796e042aec31d432](https://user-images.githubusercontent.com/57253725/129958028-5bc0fd01-be7a-415a-97e0-a13186066301.jpg)
 
